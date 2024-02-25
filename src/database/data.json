@@ -1,0 +1,323 @@
+{
+  "Pitsalar": [
+    {
+    "id": 1,
+    "title": "Assorti Pitsa",
+    "price": "97000",
+    "isAvailable": "20 Bowls available",
+    "image": "./assetsimg/assorti.png"
+  },
+  {
+    "id": 2,
+    "title": "Pepperoni Pitsa",
+    "price": "82000",
+    "isAvailable": "20 Bowls available",
+    "image": "./assetsimg/pepperoni.png"
+  },
+  {
+    "id": 3,
+    "title": "Go'shtli Pitsa",
+    "price": "99000",
+    "isAvailable": "20 Bowls available",
+    "image": "./assetsimg/meat.png"
+  },
+  {
+    "id": 4,
+    "title": "Qazili Pitsa",
+    "price": "109000",
+    "isAvailable": "20 Bowls available",
+    "image": "./assetsimg/qazili.png"
+  },
+  {
+    "id": 5,
+    "title": "Tovuqli Pitsa",
+    "price": "89000",
+    "isAvailable": "20 Bowls available",
+    "image": "./assetsimg/tovuqli.png"
+  },
+  {
+    "id": 6,
+    "title": "Tovuqli Pitsa",
+    "price": "89000",
+    "isAvailable": "20 Bowls available",
+    "image": "./assetsimg/tovuqli.png"
+  },
+  {
+    "id": 7,
+    "title": "Tovuqli Pitsa",
+    "price": "89000",
+    "isAvailable": "20 Bowls available",
+    "image": "./assetsimg/assorti.png"
+  },
+  {
+    "id": 8,
+    "title": "Tovuqli Pitsa",
+    "price": "89000",
+    "isAvailable": "20 Bowls available",
+    "image": "./assetsimg/assorti.png"
+  }
+  ],
+
+  "Lavashlar": [
+    {
+      "id": 1,
+      "title": "Original katta Lavash",
+      "price": "30000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/orglavash.png"
+    },
+    {
+      "id": 2,
+      "title": "Original kichik Lavash",
+      "price": "25000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/orglavash.png"
+    },
+    {
+      "id": 3,
+      "title": "Pishloqli katta Lavash",
+      "price": "33000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/orglavash.png"
+    },
+    {
+      "id": 4,
+      "title": "Pishloqli kichik Lavash",
+      "price": "28000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/orglavash.png"
+    },
+    {
+      "id": 5,
+      "title": "Tandir Lavash",
+      "price": "32000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/orglavash.png"
+    },
+    {
+      "id": 6,
+      "title": "Pishloqli tandir Lavash",
+      "price": "35000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/orglavash.png"
+    },
+    {
+      "id": 1,
+      "title": "Original katta Lavash",
+      "price": "30000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/orglavash.png"
+    }
+  ],
+
+  "salatlar": [
+    {
+      "id": 1,
+      "title": "Sezar",
+      "price": "25000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/salat.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Olivia",
+      "price": "29000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/sezar.jpg"
+    }
+  ],
+  "ichimliklar": [
+    {
+      "id": 1,
+      "title": "Sutli qahva 0.3l",
+      "price": "7000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/sutliqahva.png"
+    },
+
+    {
+      "id": 2,
+      "title": "Qora choy 0.3l",
+      "price": "5000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/qorachoy.png"
+    },
+
+    {
+      "id": 3,
+      "title": "Ko'k choy 0.3l",
+      "price": "5000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/kokchoy.jpg"
+    },
+
+    {
+      "id": 4,
+      "title": "Qahva 0.3l",
+      "price": "7000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/qahva.png"
+    },
+
+    {
+      "id": 5,
+      "title": "Sutli qahva 0.3l",
+      "price": "8000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/sutliqahva.png"
+    },
+
+    {
+      "id": 6,
+      "title": "Pepsi 0.4l",
+      "price": "9000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/pepsi04.png"
+    },
+
+    {
+      "id": 7,
+      "title": "Pepsi 0.3l",
+      "price": "7000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/pepsi03.png"
+    },
+
+    {
+      "id": 8,
+      "title": "Pepsi 0.5l",
+      "price": "10000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/pepsi05.png"
+    },
+
+    {
+      "id": 9,
+      "title": "Pepsi 0.8l",
+      "price": "15000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/pepsi08.png"
+    },
+    {
+      "id": 10,
+      "title": "Pepsi 1.5l",
+      "price": "20000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/pepsi15.png"
+    }
+  ],
+
+  "burgervahotdoglar": [
+    {
+      "id": 1,
+      "title": "Big ChizBurger",
+      "price": "39000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/bigchizburger.png"
+    },
+    {
+      "id": 2,
+      "title": "Hot-dog",
+      "price": "12000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/hotdog.png"
+    },
+
+    {
+      "id": 3,
+      "title": "Pishloqli Hot-dog",
+      "price": "15000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/pishloqlihotdog.png"
+    },
+    {
+      "id": 4,
+      "title": "Hamburger",
+      "price": "24000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/hamburger.png"
+    },
+
+    {
+      "id": 5,
+      "title": "Chizburger",
+      "price": "26000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/chizburger.png"
+    },
+
+    {
+      "id": 6,
+      "title": "Bigburger",
+      "price": "35000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/bigburger.png"
+    },
+    {
+      "id": 7,
+      "title": "Shoxona Hot-dog",
+      "price": "23000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/shoxona.png"
+    }
+  ],
+
+  "shirinliklar": [
+    {
+      "id": 1,
+      "title": "Klassik shokalad",
+      "price": "9000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/maffin.png"
+    },
+
+    {
+      "id": 2,
+      "title": "Braun pecheneysi",
+      "price": "10000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/maffinormon.png"
+    },
+
+    {
+      "id": 3,
+      "title": "Shokaladli maffin",
+      "price": "16000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/maffin.png"
+    },
+
+    {
+      "id": 4,
+      "title": "Maffin o'rmon mevalari",
+      "price": "16000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/donatkaramelli.png"
+    },
+
+    {
+      "id": 5,
+      "title": "Donat yong'oqli",
+      "price": "16000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/donatyongoq.png"
+    },
+
+    {
+      "id": 6,
+      "title": "Donat olmali",
+      "price": "16000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/donatolmali.png"
+    },
+
+
+    {
+      "id": 7,
+      "title": "Donat Karamelli",
+      "price": "16000",
+      "isAvailable": "20 Bowls available",
+      "image": "./assetsimg/donatyongoq.png"
+    }
+  ]
+}
